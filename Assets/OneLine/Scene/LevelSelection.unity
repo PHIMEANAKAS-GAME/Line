@@ -2833,6 +2833,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: AdsTestCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 6998172083081053950, guid: 477d6f25ceeb74afbb2bce060c543206,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8103385962945473682, guid: 477d6f25ceeb74afbb2bce060c543206,
         type: 3}
       propertyPath: m_Interactable
@@ -2903,7 +2908,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -12.751007, y: 0.00012207031}
+  m_AnchoredPosition: {x: -12.751038, y: 0.00012207031}
   m_SizeDelta: {x: 25.503, y: 0.00024414}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &569514942
@@ -7061,7 +7066,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1303964554
 RectTransform:
   m_ObjectHideFlags: 0

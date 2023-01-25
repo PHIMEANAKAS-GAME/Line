@@ -61,92 +61,92 @@
     <Compile Include="Assets/OneLine/_Scripts/TextManger.cs" />
     <Compile Include="Assets/OneLine/_Scripts/ScrollBackground.cs" />
     <Compile Include="Assets/OneLine/MyCombo/iOSNativeShare.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSource.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Sharing.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceInitializationAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceInitilizer.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceSegment.cs" />
     <Compile Include="Assets/OneLine/MyCombo/AndroidUtil.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityInitialization.cs" />
     <Compile Include="Assets/OneLine/_Scripts/PlayerData.cs" />
     <Compile Include="Assets/OneLine/MyCombo/TimerText.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceBannerEvents.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Toast/Toast.cs" />
+    <Compile Include="Assets/IronSource/Scripts/AndroidAgent.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceSegmentAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoEvents.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayBanner.cs" />
+    <Compile Include="Assets/IronSource/Scripts/UnsupportedPlatformAgent.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoLevelPlayAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceImpressionData.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourcePlacement.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityImpressionData.cs" />
     <Compile Include="Assets/OneLine/_Scripts/LevelData.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceAdInfo.cs" />
     <Compile Include="Assets/OneLine/_Scripts/PathReader.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceError.cs" />
     <Compile Include="Assets/OneLine/LevelCreator/_Script/Levels.cs" />
     <Compile Include="Assets/OneLine/_Scripts/ThemeChanger.cs" />
     <Compile Include="Assets/OneLine/_Scripts/DotAnimation.cs" />
     <Compile Include="Assets/OneLine/MyCombo/ScreenFader/ScreenFader.cs" />
     <Compile Include="Assets/OneLine/MyCombo/CurrencyController.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceInterstitialEvents.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceEvents.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityRewardedVideo.cs" />
     <Compile Include="Assets/OneLine/_Scripts/UIControllerForGame.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityBanner.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceBannerLevelPlayAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayRewardedVideo.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceImpressionDataAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayInterstitial.cs" />
+    <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLIronSourceAdapter.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceMediationSettings.cs" />
     <Compile Include="Assets/OneLine/_Scripts/Ways.cs" />
     <Compile Include="Assets/OneLine/MyCombo/GameConfig.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceConstants.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityRewardedVideoManual.cs" />
+    <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLIronSourceListener.cs" />
     <Compile Include="Assets/OneLine/MyCombo/DialogOverlay.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Dialog.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceIAgent.cs" />
     <Compile Include="Assets/OneLine/_Scripts/UIController.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceEventsDispatcher.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoLevelPlayManualAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayRewardedVideoManual.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Timer.cs" />
+    <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLVideoRewardTest.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceInterstitialAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/iOSAgent.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceJSON.cs" />
     <Compile Include="Assets/OneLine/_Scripts/TextM.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Gtil.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Music.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoAndroid.cs" />
     <Compile Include="Assets/OneLine/_Scripts/GridManager.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceUtils.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnitySegment.cs" />
     <Compile Include="Assets/OneLine/MyCombo/GameMaster.cs" />
     <Compile Include="Assets/OneLine/_Scripts/AnimationHandler.cs" />
     <Compile Include="Assets/OneLine/_Scripts/WaysUI.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Sound.cs" />
     <Compile Include="Assets/OneLine/LevelCreator/_Script/LevelCreator.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityOfferwall.cs" />
     <Compile Include="Assets/OneLine/MyCombo/JobWorker.cs" />
     <Compile Include="Assets/OneLine/MyCombo/Purchaser.cs" />
     <Compile Include="Assets/OneLine/MyCombo/BaseController.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceBannerAndroid.cs" />
     <Compile Include="Assets/OneLine/MyCombo/CUtils.cs" />
     <Compile Include="Assets/OneLine/MyCombo/AndroidNativeShare.cs" />
     <Compile Include="Assets/OneLine/MyCombo/SellReadMe.cs" />
     <Compile Include="Assets/OneLine/MyCombo/SimpleJSON.cs" />
-    <Compile Include="Assets/OneLine/_Scripts/UnlockPackageDialog.cs" />
-    <Compile Include="Assets/OneLine/MyCombo/ShopDialog.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityBanner.cs" />
-    <Compile Include="Assets/IronSource/Scripts/AndroidAgent.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityInitialization.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceMediationSettings.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceInterstitialLevelPlayAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayRewardedVideo.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceBannerLevelPlayAndroid.cs" />
-    <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLVideoRewardTest.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceInterstitialEvents.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayBanner.cs" />
-    <Compile Include="Assets/IronSource/Scripts/iOSAgent.cs" />
-    <Compile Include="Assets/IronSource/Scripts/UnsupportedPlatformAgent.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSource.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceError.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityInterstitial.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceEvents.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceEventsDispatcher.cs" />
     <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLIronSourceVideoRequestService.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoLevelPlayManualAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityRewardedVideo.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceIAgent.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceSegmentAndroid.cs" />
+    <Compile Include="Assets/OneLine/_Scripts/UnlockPackageDialog.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IUnityInterstitial.cs" />
+    <Compile Include="Assets/OneLine/MyCombo/ShopDialog.cs" />
     <Compile Include="Assets/IronSource/Scripts/IronSourceOfferwallAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceBannerAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoLevelPlayAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceImpressionData.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceJSON.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceConfig.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceInitializationAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceAdInfo.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceInitilizer.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceInterstitialAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourcePlacement.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceUtils.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoEvents.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceConstants.cs" />
-    <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLIronSourceAdapter.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceSegment.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityRewardedVideoManual.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceImpressionDataAndroid.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayInterstitial.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityOfferwall.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnitySegment.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityLevelPlayRewardedVideoManual.cs" />
     <Compile Include="Assets/IronSource/Scripts/IronSourceRewardedVideoManualAndroid.cs" />
-    <Compile Include="Assets/ThirdParty/ironSource/Scripts/HLIronSourceListener.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IronSourceBannerEvents.cs" />
-    <Compile Include="Assets/IronSource/Scripts/IUnityImpressionData.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceInterstitialLevelPlayAndroid.cs" />
+    <Compile Include="Assets/IronSource/Scripts/IronSourceConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/IronSource/Plugins/Android/IronSource.plugin/AndroidManifest.xml" />
@@ -773,23 +773,11 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Services.Core.Analytics">
-      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Services.Core.Environments">
-      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
@@ -824,11 +812,23 @@
     <Reference Include="Unity.Services.Core">
       <HintPath>Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Analytics">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Environments">
+      <HintPath>Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
